@@ -1,0 +1,11 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8•ò÷§ƒ2J$9dd4d735-14a8-4f21-94f1-efd8316db272
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8–ò÷§ƒ2J$e71c4664-360f-421c-86ef-4cfb2ed3545d
+¢
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(£šÈÙûÿÿÿÿ8¸öù§ƒ2J$dd4df6b5-a364-46db-9713-3438e0a865c1
+o
+java:S5344",Use secure "PasswordEncoder" implementation.(å‰ö8—ò÷§ƒ2J$64de4c76-c037-45f4-a0fd-c224ba25201d
+~
+java:S1874";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö8ò÷§ƒ2J$305ab4e9-ea2f-4b9d-a39e-20d0edbddc8b
